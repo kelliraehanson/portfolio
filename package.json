@@ -4,5 +4,9 @@
   "main": "index.js",
   "repository": "https://github.com/kelliraehanson/portfolio1.git",
   "author": "Kelli Rae Hanson <kelliraehanson@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "nodemon": "^1.18.10"
+  }
 }
